@@ -1,0 +1,6 @@
+{
+    "max_records_n": 10000,
+    "time_simulations": 1000,
+    "path_to_logfile": "./logs/",
+    "log_file_name":"sensor.log"
+}
